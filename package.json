@@ -1,0 +1,16 @@
+{
+  "name": "redact-app",
+  "version": "1.0.0",
+  "description": "a redact-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "michael-legacy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
